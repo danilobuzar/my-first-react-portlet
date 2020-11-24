@@ -1,0 +1,5 @@
+Bundle-Name: my-first-react-portlet
+Bundle-SymbolicName: com.liferay.meetup.react.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.meetup.react.web.constants
+Web-ContextPath: /my-first-react-portlet
